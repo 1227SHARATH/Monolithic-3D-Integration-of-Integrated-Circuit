@@ -1,1 +1,2 @@
-# Monolithic-3D-Integration-of-Integrated-Circuit
+# Monolithic 3D-Integration of Integrated Circuit
+Monolithic 3D (MONO3D) integration enables stacking multiple transistor layers on a single substrate, connected using monolithic inter-tier vias (MIVs) with dimensions similar to metal vias. This allows for higher integration density and bandwidth compared to traditional 2D integration. Recent advances include improved fabrication techniques, thermal management strategies, and design automation tools. MONO3D shows potential in domains like in-memory computing, neural network acceleration, and hardware security. However, commercialization faces challenges in manufacturing scalability, heat dissipation, and toolchain support.
